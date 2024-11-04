@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://owoheava.github.io/MZd/sitemap_index.txt
+Sitemap: https://owoheava.github.io/nSe/sitemap_index.txt
+Sitemap: https://owoheava.github.io/rIt/sitemap_index.txt
+Sitemap: https://owoheava.github.io/uPy/sitemap_index.txt
